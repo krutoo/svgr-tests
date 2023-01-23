@@ -1,0 +1,17 @@
+{
+  "name": "svgr-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@svgr/core": "^6.5.1",
+    "@svgr/plugin-jsx": "^6.5.1",
+    "@svgr/plugin-svgo": "^6.5.1"
+  }
+}
